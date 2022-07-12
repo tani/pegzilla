@@ -1,0 +1,6 @@
+tasks:
+  - command: brew install deno
+
+vscode:
+  extensions:
+    - denoland.vscode-deno
