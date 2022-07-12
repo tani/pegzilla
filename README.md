@@ -1,2 +1,2 @@
-# pegzilla
-The modern parser combinator
+# Pegzilla 🦕
+The modern parser combinator!
